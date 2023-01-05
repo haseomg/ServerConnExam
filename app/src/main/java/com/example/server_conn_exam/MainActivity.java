@@ -6,9 +6,6 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-
-
-
     // 여기에서 스트리밍 서버와 통신 해볼거야!
 
     @Override
